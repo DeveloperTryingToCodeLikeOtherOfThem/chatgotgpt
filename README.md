@@ -1,4 +1,4 @@
- 
+This extension is meant for programming ChatGPT using your keyboard or the system keyboard on your console. 
 
 
 > Open this page at [https://developertryingtocodelikeotherofthem.github.io/chatgotgpt/](https://developertryingtocodelikeotherofthem.github.io/chatgotgpt/)
